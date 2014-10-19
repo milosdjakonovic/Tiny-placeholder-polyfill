@@ -1,4 +1,4 @@
-Tiny-placeholder-polyfill
+Tiny placeholder polyfill
 =========================
 
 Placeholder polyfill in less than 1KB! 
